@@ -1,6 +1,5 @@
 #%%
 import pandas as pd
-from tqdm import tqdm
 #%%
 data = pd.read_excel("data_marketplaces.xlsx")
 #%%
